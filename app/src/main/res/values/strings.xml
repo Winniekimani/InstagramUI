@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">InstagramUI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shop">shop</string>
+    <string name="search">Search</string>
+    <string name="reels">Reels</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="instagram">Instagram</string>
+    <string name="jumiakenya">jumiakenya</string>
+    <string name="sponsored">sponsored</string>
+    <string name="weneeykimani">WeneeyKimani</string>
+    <string name="_739">739</string>
+    <string name="followers">Followers</string>
+    <string name="posts">Posts</string>
+    <string name="_995">995</string>
+    <string name="following">Following</string>
+    <string name="_19">19</string>
+    <string name="winnie_kimani">Winnie Kimani</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="mombasa_highlights">Mombasa Highlights</string>
+    <string name="_58_6k">58.6k</string>
+    <string name="_50">50</string>
+    <string name="winnie_peace">winnie_peace</string>
+    <string name="follow">follow</string>
+</resources>
